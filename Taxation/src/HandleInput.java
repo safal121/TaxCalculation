@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 /**
@@ -6,7 +5,7 @@ import java.util.Scanner;
  * @author Bigyan K.c
  * @Date 2013/03/24
  * @version 1.1
- * Takes the input from user and checks it's validity
+ *   Takes the input from user and checks it's validity   
  *
  */
 public class HandleInput {
